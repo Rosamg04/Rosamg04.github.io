@@ -1,7 +1,11 @@
 #A {background-color:rgb(0, 51, 204); font-family:Arial,Helvetica, sans-serif }
 #B h2{background-color:rgb(0, 153, 255)}
 #C h2{background-color:rgb(51, 204, 255)}
+#D h2{background-color:rgb(102, 255, 255)}
+#E h2{background-color:rgb(153, 255, 204)}
 #B {font-family:'Courier New', Courier, monospace;}
 #B p{text-align: center}
 #C p{text-align: center}
 #C {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+#D p{text-align: center}
+#E p{text-align: center}
