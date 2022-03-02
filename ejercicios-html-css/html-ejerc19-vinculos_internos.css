@@ -1,0 +1,7 @@
+*{margin: 5px;padding: 5px}
+body{background-color: black; color:white; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+h1{font-weight: bold}
+h1:hover{background-color: orange; color: black}
+.img-centrada{display:block; margin:auto;margin-right:auto; display:table-cell;vertical-align:middle;} 
+#A{border-style: dashed; border-width: 5px; border-color: rgba(150,60,150,100); border-radius: 20px}
+.boton:hover, boton:active {background-clor:red; color: white;}
