@@ -10,3 +10,4 @@
 #C p{text-align: center}
 #D p{text-align: center}
 #E p{text-align: center}
+.boton:hover, boton:active {background-color:red; color: white;}
