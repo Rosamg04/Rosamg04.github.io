@@ -4,7 +4,8 @@
 #D h2{background-color:rgb(102, 255, 255)}
 #E h2{background-color:rgb(153, 255, 204)}
 #F h2{background-color:rgb(153,255,153)}
-#G {background-color:rgb(204, 255, 104)}
+#G h2{background-color:rgb(204, 255, 104)}
+#H {background-color:rgb(255, 255, 104)}
 #B {font-family:'Courier New', Courier, monospace;}
 #C {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
 #B p{text-align: center}
@@ -12,4 +13,5 @@
 #D p{text-align: center}
 #E p{text-align: center}
 #F p{text-align: center}
+#G p{text-align: center}
 .boton:hover, boton:active {background-color:red; color: white;}
